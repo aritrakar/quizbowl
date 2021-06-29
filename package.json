@@ -1,0 +1,22 @@
+{
+  "name": "quizbowl",
+  "version": "1.0.0",
+  "description": "A platform to practice quizbowl questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aritrakar/quizbowl.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Aritra Kar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aritrakar/quizbowl/issues"
+  },
+  "homepage": "https://github.com/aritrakar/quizbowl#readme"
+}
